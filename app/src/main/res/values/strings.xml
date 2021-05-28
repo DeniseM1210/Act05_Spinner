@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Act05_Spinner</string>
+    <string name="txt_Convertir">Convertir</string>
+    <string name="txt_cajaGrados"></string>
+    <string name="txt_A">A:</string>
+    <string name="txt_igual">=</string>
+    <string name="txt_cajaResultado"></string>
+
+    <string-array name="spinner_conversion">
+        <item>Centigrados</item>
+        <item>Fahrenheit</item>
+        <item>Rankine</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
